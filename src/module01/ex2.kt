@@ -1,3 +1,5 @@
+package module01
+
 fun main() {
     print("Qual o seu nome? ")
     val name = readLine()

@@ -1,3 +1,5 @@
+package module01
+
 fun main() {
     println("Redução do tempo de vida de um fumante!")
     print("Quantidade de cigarros fumados por dia: ")

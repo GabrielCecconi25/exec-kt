@@ -1,3 +1,5 @@
+package module01
+
 fun main() {
     print("Quantos dias trabalhados? ")
     val d = readln().toDouble()

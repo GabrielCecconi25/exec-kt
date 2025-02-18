@@ -1,3 +1,5 @@
+package module01
+
 fun main() {
     print("Digite um número: ")
     val n = readln().toInt()

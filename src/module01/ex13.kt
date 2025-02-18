@@ -1,3 +1,5 @@
+package module01
+
 fun main() {
     print("Preço do produto: R$")
     val p = readln().toDouble()

@@ -1,3 +1,5 @@
+package module01
+
 fun main() {
     print("Largura da parede: ")
     var area = readln().toDouble()

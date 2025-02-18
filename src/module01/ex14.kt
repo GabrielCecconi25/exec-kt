@@ -1,3 +1,5 @@
+package module01
+
 fun main() {
     print("Nome do Funcionário: ")
     val name = readLine()

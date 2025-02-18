@@ -1,3 +1,5 @@
+package module01
+
 fun main() {
     println("Locadora")
     print("Quantidade de Km percorridos: ")

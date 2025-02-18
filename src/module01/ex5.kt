@@ -1,3 +1,5 @@
+package module01
+
 fun main() {
     print("Nota 1: ")
     val n1 = readln().toInt()

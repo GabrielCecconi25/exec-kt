@@ -1,3 +1,5 @@
+package module01
+
 fun main() {
     print("Digite uma distância em metros: ")
     val dis = readln().toInt()

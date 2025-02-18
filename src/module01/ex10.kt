@@ -1,3 +1,5 @@
+package module01
+
 fun main() {
     print("Quanto dinheiro você tem em Real? R$")
     val cart = readln().toDouble()
