@@ -7,7 +7,7 @@ package modulo02
  * cada Km acima da velocidade permitida.
  */
 
-fun main(){
+fun main() {
 
     println("Digite a velocidade do carro: ")
     val velocidade = readln().toInt()
