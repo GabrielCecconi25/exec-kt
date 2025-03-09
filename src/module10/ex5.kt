@@ -1,7 +1,7 @@
 package module10
 
 fun main() {
-    println(Potencia(5, 0))
+    println(Potencia(3, 3))
 }
 
 fun Potencia(b: Int, e: Int): Int {
